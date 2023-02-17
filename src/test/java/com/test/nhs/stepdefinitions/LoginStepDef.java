@@ -38,6 +38,7 @@ public class LoginStepDef {
 
     @When("user login with credentials {string} and {string}")
     public void user_enters_correct_and(String username, String password) throws InterruptedException {
+
         loginPage.login(username,password);
     }
 
