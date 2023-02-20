@@ -116,16 +116,5 @@ public class DashboardPage {
     }
 
 
-//
-//        public void checkCardTitle (String title){
-//            for (WebElement cardTitle : allCardTitles) {
-//                Assert.assertEquals(title, BrowserUtils.getTextMethod(cardTitle));
-//            }
-//        }
-
-//          if(BrowserUtils.getTextMethod(cardTitle).equals(title)){
-//        //dif the title is the one we want do something
-//            }
-
 
 }
