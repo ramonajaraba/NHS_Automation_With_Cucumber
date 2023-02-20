@@ -38,9 +38,9 @@ public class LoginPage {
 
     public void login(String username, String password) throws InterruptedException {
         this.username.sendKeys(username);
-//        Thread.sleep(3000);
+        Thread.sleep(1000);
         this.password.sendKeys(password);
-//        Thread.sleep(3000);
+        Thread.sleep(1000);
         signInButton.click();
     }
 
