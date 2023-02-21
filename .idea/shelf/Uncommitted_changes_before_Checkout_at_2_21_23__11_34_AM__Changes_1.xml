@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_2_21_23,_11_34_AM_[Changes]1" date="1677000937693" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_21_23,_11_34_AM_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2/21/23, 11:34 AM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/com/test/nhs/pages/DashboardPage.class" />
+    <option name="AFTER_PATH" value="target/test-classes/com/test/nhs/pages/DashboardPage.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_21_23,_11_34_AM_[Changes]1/DashboardPage.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/com/test/nhs/stepdefinitions/DahboardCardsStepDef.class" />
+    <option name="AFTER_PATH" value="target/test-classes/com/test/nhs/stepdefinitions/DahboardCardsStepDef.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_21_23,_11_34_AM_[Changes]1/DahboardCardsStepDef.class" />
+  </binary>
+</changelist>
